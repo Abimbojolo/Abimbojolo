@@ -1,8 +1,7 @@
 
-
 <h1 align="center">Hi 👋, I'm Aaron Joshua Loveday</h1>
 <h3 align="center">A passionate and enthusiastic Data Analyst/Scientist based in the UK</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=ANIMATED+DATA+ANALYST+IMAGE+gif&&tbm=isch&ved=2ahUKEwiroPGY667_AhWomicCHV7-ABgQ2-cCegQIABAA&oq=ANIMATED+DATA+ANALYST+IMAGE+gif&gs_lcp=CgNpbWcQAzoECCMQJ1CICFi-E2C3HGgAcAB4AIABxwSIAckRkgEJMi0xLjEuMS4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=UEB_ZKu4Hqi1nsEP3vyDwAE&bih=643&biw=1349&client=firefox-b-d&hl=en-GB#imgrc=uYYa30tHbsaH2M">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abimbojolo&label=Profile%20views&color=0e75b6&style=flat" alt="abimbojolo" /> </p>
 
