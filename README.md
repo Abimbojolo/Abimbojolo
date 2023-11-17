@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/teejaaron" target="blank"><img src="https://img.shields.io/twitter/follow/teejaaron?logo=twitter&style=for-the-badge" alt="teejaaron" /></a> </p>
 
-- 🔭 I’m currently working on **Customer Retention in the retail industry through Churn Prediction**
-
-- 📝 I’m currently Studying [Data Analytics and Technologies](Data Analytics and Technologies)
+- 🔭 I’m currently on Digital Marketing Skill Bootcamp with We are Group
+  
+- 📝 Graduate Msc Data Analytics and Technologies University of Bolton
 
 - 📫 How to reach me **aaronjoshualoveday@gmail.com**
 
